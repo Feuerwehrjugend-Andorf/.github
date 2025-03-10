@@ -1,6 +1,6 @@
 # 🚒 Freiwillige Feuerwehr Andorf
 
-Willkommen im offiziellen Repository der **Freiwilligen Feuerwehr Andorf**! Wir sind eine engagierte Feuerwehrorganisation, die rund um die Uhr für die Sicherheit und den Schutz der Bevölkerung sorgt. Hier findest du Informationen zu unseren Aktivitäten, Projekten und digitalen Lösungen.
+Willkommen im offiziellen Organisation der **Freiwilligen Feuerwehr Andorf**! Wir sind eine engagierte Feuerwehrorganisation, die rund um die Uhr für die Sicherheit und den Schutz der Bevölkerung sorgt. Hier findest du Informationen zu unseren Aktivitäten, Projekten und digitalen Lösungen.
 
 ## 📌 Über uns
 Die FF Andorf ist eine moderne Feuerwehr mit einem starken Team aus freiwilligen Mitgliedern. Unsere Hauptaufgaben umfassen:
@@ -11,11 +11,8 @@ Die FF Andorf ist eine moderne Feuerwehr mit einem starken Team aus freiwilligen
 - 🎓 Ausbildung & Schulungen
 
 ## 💡 Was du hier findest
-In diesem Repository sammeln wir digitale Tools, Scripte und Dokumentationen, um unsere Einsatzabläufe zu verbessern. Dazu gehören:
-- Einsatzdokumentationen 📂
-- Schulungsmaterialien 📘
-- Automatisierte Skripte für Verwaltung & Planung 🖥️
-- Open-Source-Projekte zur Unterstützung anderer Feuerwehren 🚀
+In dieser Organisation sammel wir alle Development Dinge. Dazu gehören:
+- Website Codes 🌐
 
 ## 📥 Mitmachen
 Wir freuen uns über jeden, der sich für unsere Arbeit interessiert! Falls du Ideen hast oder mitarbeiten möchtest:
@@ -25,7 +22,7 @@ Wir freuen uns über jeden, der sich für unsere Arbeit interessiert! Falls du I
 
 ## 📬 Kontakt
 📍 **Adresse:** FF Andorf, Musterstraße 1, 4770 Andorf  
-📧 **E-Mail:** info@ff-andorf.at  
+📧 **E-Mail:** 10202@sd.ooelfv.at 
 🌐 **Webseite:** [www.ff-andorf.at](https://www.ff-andorf.at)  
 📱 **Social Media:** [Facebook](https://www.facebook.com/ffandorf) | [Instagram](https://www.instagram.com/ffandorf)
 
