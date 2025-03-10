@@ -22,10 +22,10 @@ Wir freuen uns über jeden, der sich für unsere Arbeit interessiert! Falls du I
 3. Unterstütze unsere digitale Weiterentwicklung
 
 ## 📬 Kontakt
-📍 **Adresse:** FF Andorf, Bahnhofstraße 22, 4770 Andorf
-📧 **E-Mail:** 10202@sd.ooelfv.at 
-🌐 **Webseite:** [www.ff-andorf.at](https://www.ff-andorf.at)  
-📱 **Social Media:** [Facebook](https://www.facebook.com/FFAndorf) | [Instagram Jugend](https://www.instagram.com/feuerwehr_jugend_andorf)
+- 📍 **Adresse:** FF Andorf, Bahnhofstraße 22, 4770 Andorf
+- 📧 **E-Mail:** 10202@sd.ooelfv.at 
+- 🌐 **Webseite:** [www.ff-andorf.at](https://www.ff-andorf.at)  
+- 📱 **Social Media:** [Facebook](https://www.facebook.com/FFAndorf) | [Instagram Jugend](https://www.instagram.com/feuerwehr_jugend_andorf)
 
 ---
 💪 **"Retten - Löschen - Bergen - Schützen"** 🔥
