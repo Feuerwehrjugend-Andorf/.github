@@ -1,6 +1,6 @@
 # 🚒 Freiwillige Feuerwehr Andorf
 
-Willkommen im offiziellen Organisation der **Freiwilligen Feuerwehr Andorf**! Wir sind eine engagierte Feuerwehrorganisation, die rund um die Uhr für die Sicherheit und den Schutz der Bevölkerung sorgt. Hier findest du Informationen zu unseren Aktivitäten, Projekten und digitalen Lösungen.
+Willkommen im offiziellen Organisation der **Freiwilligen Feuerwehr Andorf**!
 
 ## 📌 Über uns
 Die FF Andorf ist eine moderne Feuerwehr mit einem starken Team aus freiwilligen Mitgliedern. Unsere Hauptaufgaben umfassen:
